@@ -1,4 +1,4 @@
-package com.reactlibrary.utils;
+package com.aliyunoss.utils;
 
 import android.content.Context;
 import android.net.Uri;

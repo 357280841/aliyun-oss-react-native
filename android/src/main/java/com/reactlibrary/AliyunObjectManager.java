@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.aliyunoss;
 
 import android.util.Log;
 
