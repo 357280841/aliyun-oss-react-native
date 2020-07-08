@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.source_files  = 'ios/*.{h,m}'
 
   s.dependency 'React'
-  s.dependency 'AliyunOSSiOS'
+  # s.dependency 'AliyunOSSiOS'
 
 end
